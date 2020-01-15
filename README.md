@@ -10,4 +10,4 @@
 scrapy crawl goods_spider
 ```
 
-
+新爬虫使用requests，扫描detail接口，文件在v2文件夹下
